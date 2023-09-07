@@ -5,7 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pwsic/)](https://instagram.com/pwsic/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/pwsic)](https://linkedin.com/in/pwsic)
 
-🔍 I'm looking for a new job opportunity <br/>
+👨‍🚀 _Senior Software Engineer at [Caju Benefícios](https://www.caju.com.br)_<br/>
 👨‍🚀 _Previously Senior Software Engineer at [IDWall](https://idwall.co)_<br/>
 👨‍🚀 _Previously Senior Software Engineer at [Facily](https://faci.ly)_<br/>
 👨‍🚀 _Previously Mid Software Engineer at [Luiza Labs](https://medium.com/luizalabs)_<br />
