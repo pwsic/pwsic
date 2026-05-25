@@ -10,5 +10,3 @@
 👨‍🚀 _Previously Mid Software Engineer at [Luiza Labs](https://medium.com/luizalabs)_<br />
 
 [🧮 My Code::Stats](https://codestats.net/users/pwsic)<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=pwsic&theme=react&layout=compact&langs_count=10)
